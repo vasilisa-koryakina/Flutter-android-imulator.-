@@ -1,0 +1,1 @@
+# Flutter-android-imulator.-
